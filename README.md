@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
  <img width="12" />
-  <img src="<a target="_blank" href="https://icons8.com/icon/4djt356tq8UO/apache-netbeans">Apache Netbeans</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>" height="40" alt="netbeans logo" />
+  <img src="https://icons8.com/icon/4djt356tq8UO/apache-netbeans" height="40" alt="netbeans logo" />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYAm56KxOvcav1Ze35W9hWx2gRFlWLYbCwpA&s" height="40" alt="uml logo"  />
 </div>
