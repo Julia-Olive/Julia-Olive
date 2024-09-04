@@ -6,9 +6,6 @@
 
 <h3 align="center">A beginner in the field of programming with a lot of ambition</h3>
 
-<h1 align="center">Hi 👋, I'm Júlia Oliveira</h1>
-<h3 align="center">A beginner in the field of programming with a lot of ambition</h3>
-
 - 🔭 I’m currently working **as a young apprentice in technical support**
 
 - 💻 Bachelor of **Computer Science in progress**
@@ -33,7 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
  <img width="12" />
-<img src="https://img.icons8.com/ios/452/apache-netbeans.png" height="40" alt="netbeans logo" />
+<img src="https://img.icons8.com/color/48/apache-netbeans.png" height="40" alt="netbeans logo" />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYAm56KxOvcav1Ze35W9hWx2gRFlWLYbCwpA&s" height="40" alt="uml logo"  />
 </div>
