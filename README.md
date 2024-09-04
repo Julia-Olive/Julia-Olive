@@ -1,3 +1,11 @@
+<div style="display: inline_block">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3bb23c&height=120&section=header"/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3bb23c&size=38&center=true&vCenter=true&width=1000&lines=Júlia+Oliveira)](https://git.io/typing-svg)
+</div>
+
+<h3 align="center">A beginner in the field of programming with a lot of ambition</h3>
+
 <h1 align="center">Hi 👋, I'm Júlia Oliveira</h1>
 <h3 align="center">A beginner in the field of programming with a lot of ambition</h3>
 
