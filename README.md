@@ -1,7 +1,7 @@
 <div style="display: inline_block">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=af8bcc&height=120&section=header"/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=af8bcc&size=38&center=true&vCenter=true&width=1000&lines=Júlia+Oliveira)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=af8bcc&size=38&center=true&vCenter=true&width=1000&lines=I'm+Júlia+Oliveira)](https://git.io/typing-svg)
 </div>
 
 <h3 align="center">A beginner in the field of programming with a lot of ambition</h3>
@@ -35,8 +35,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uml/uml-original.svg" height="40" alt="uml logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYAm56KxOvcav1Ze35W9hWx2gRFlWLYbCwpA&s" height="40" alt="uml logo"  />
 </div>
+
+###
 
 ###
 
