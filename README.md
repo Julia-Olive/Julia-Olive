@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Júlia</h1>
+<h1 align="center">Hi 👋, I'm Júlia Oliveira</h1>
 <h3 align="center">A beginner in the field of programming with a lot of ambition</h3>
 
 - 🔭 I’m currently working **as a young apprentice in technical support**
@@ -10,7 +10,6 @@
 - 📫 How to reach me **juoli482@gmail.com**
 
 - 🎇 Fun fact **I'm a retired taekwondo athlete**
-
 
 <p align="left">
 </p>
@@ -27,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uml/uml-original.svg" height="40" alt="uml logo"  />
 </div>
 
 ###
@@ -43,3 +44,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <h3>Júlia Oliveira</h3>
+</div>
