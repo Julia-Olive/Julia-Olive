@@ -52,6 +52,3 @@
 
 ###
 
-<div align="center">
-  <h3>Júlia Oliveira</h3>
-</div>
