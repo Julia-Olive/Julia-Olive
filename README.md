@@ -32,8 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.sv](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png?20180920122700)" height="40" alt="apache logo"  />
+ <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" height="40" alt="netbeans logo" />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYAm56KxOvcav1Ze35W9hWx2gRFlWLYbCwpA&s" height="40" alt="uml logo"  />
 </div>
