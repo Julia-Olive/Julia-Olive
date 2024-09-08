@@ -6,11 +6,9 @@
 
 <h3 align="center">A beginner in the field of programming with a lot of ambition</h3>
 
-- 🔭 I’m currently working **as a young apprentice in technical support**
+- 🔭 I’m currently working **in technical support**
 
 - 💻 Bachelor of **Computer Science in progress**
-
-- 🌱 I’m currently learning **about networking and data security**
 
 - 📫 How to reach me **juoli482@gmail.com**
 
